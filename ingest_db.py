@@ -7,7 +7,7 @@ import logging
 import time
 
 logging.basicConfig(
-    filename="logs/.log",
+    filename="logs/ingestion_db.log",
     level=logging.DEBUG,
     format="%(asctime)s - %(levelname)s - %(message)s",
     filemode="a",
