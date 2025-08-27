@@ -97,9 +97,9 @@ python get_vendor_summary.py
 
 *Notebooks:*
 
-* `EDA.ipynb` – data sanity checks, profiling, core distributions.
-* `vendor_performance_analysis.ipynb` – KPI build‑out, vendor rankings, trend diagnostics.
-* `notebook.ipynb` – scratchpad/experiments supporting the final analysis.
+* [EDA.ipynb](./notebooks/EDA.ipynb) – data sanity checks, profiling, core distributions.
+* [vendor_performance_analysis.ipynb](./notebooks/vendor_performance_analysis.ipynb) – KPI build‑out, vendor rankings, trend diagnostics.
+* [notebook.ipynb](./notebooks/notebook.ipynb) – scratchpad/experiments supporting the final analysis.
 
 ---
 
