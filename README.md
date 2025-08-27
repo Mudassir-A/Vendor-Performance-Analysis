@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 # 3) Place/download the raw file locally (from the Drive link)
 """ 
-e.g., data
+e.g., data/
     ├── begin_inventory.csv
     ├── end_inventory.csv
     ├── purchase_prices.csv
